@@ -3,7 +3,7 @@
         <div class="w-1/2 mx-auto">
             <div>
                 <label for="email" class="label">E-mail (username)</label>
-                <input id="email" type="text" class="input" v-model="form.input" />
+                <input id="email" type="text" class="input" v-model="form.email" />
                 <div class="input-error">Potential errors</div>
             </div>
 
